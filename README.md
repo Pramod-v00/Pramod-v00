@@ -101,9 +101,7 @@ public class PramodV {
 - Bridges the gap between local employers and job seekers in a community-focused interface
 - Designed to make hyperlocal employment accessible without large-platform complexity
 
-**Tech used:** `Python` · `Flask` · `SQL` · `HTML` · `CSS` · `REST APIs`
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pramodv/local-job-platform)
+**Tech used:** `React` · `Node` · `Express` · `MongoDB` · `CSS` · `REST APIs`
 
 ---
 
