@@ -3,8 +3,6 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pramod+V+%F0%9F%91%8B;Computer+Science+Engineer;Java+Developer+%7C+Problem+Solver;Backend+%26+API+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=pramodv&color=2f81f7&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -119,16 +117,6 @@ Contributed to a professional design engagement focused on golf course managemen
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pramodv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2f81f7&icon_color=2f81f7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodv&layout=compact&theme=github_dark&hide_border=true&title_color=2f81f7&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=pramodv&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2f81f7&ring=2f81f7&fire=2f81f7" />
-
-</div>
 
 ---
 
@@ -150,9 +138,9 @@ Contributed to a professional design engagement focused on golf course managemen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/pramod-v-162740326?)
 [![GitHub](https://img.shields.io/badge/GitHub-pramodv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pramodv)
-[![Email](https://img.shields.io/badge/Email-pramodv%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pramodv@email.com)
+[![Email](https://img.shields.io/badge/Email-pramodv%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pramodv9988@email.com)
 
 </div>
 
