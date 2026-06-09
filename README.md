@@ -28,12 +28,12 @@ Computer Science Engineering student at REVA University (CGPA **7.88**), focused
 | **Languages** | Java · Python · SQL · HTML · CSS |
 | **Backend & APIs** | Flask · REST APIs |
 | **Tools** | Git · GitHub · Figma |
-| **Exploring** | Spring Boot · PostgreSQL · Docker |
+| **Currently Learning** | Spring Boot · PostgreSQL · Docker |
 
 ---
 ## Problem Solving
 
-Solved 141+ LeetCode problems using Java and actively practicing Data Structures & Algorithms.
+Solved 141+ LeetCode problems using Java and consistently practicing Data Structures & Algorithms to strengthen problem-solving skills.
 
 LeetCode: https://leetcode.com/u/Pramod_V1/
 
@@ -80,6 +80,6 @@ Converts semi-structured documents into structured, visual dashboards using AI.
 
 <div align="center">
 
-**Available for internships · Open to collaborating on real-world projects**
+**Actively seeking internship opportunities in Software Development, Backend Engineering**
 
 </div>
