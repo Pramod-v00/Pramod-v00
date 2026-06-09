@@ -31,7 +31,13 @@ Computer Science Engineering student at REVA University (CGPA **7.88**), focused
 | **Exploring** | Spring Boot · PostgreSQL · Docker |
 
 ---
+## Problem Solving
 
+Solved 141+ LeetCode problems using Java and actively practicing Data Structures & Algorithms.
+
+LeetCode: https://leetcode.com/u/Pramod_V1/
+
+---
 ## Projects
 ### [JP Bridge — Local Job Sharing Platform](https://github.com/Pramod-v00/JP_Bridge-Local-Job-Sharing-Platform)
 
