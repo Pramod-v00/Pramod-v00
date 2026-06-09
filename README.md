@@ -38,8 +38,8 @@ Computer Science Engineering student at REVA University (CGPA **7.88**), focused
 Location-aware platform connecting local job seekers with employers in their community.
 
 - Job posting, browsing, and location-based filtering
-- RESTful backend with Flask; relational data storage via SQL
-- Clean, community-focused UI built with HTML & CSS
+- RESTful backend with Flask
+- Clean, community-focused UI built with React & CSS
 
 `React` `Node` `MongoDB` `Express` `CSS` `REST APIs`
 
@@ -53,7 +53,7 @@ Converts semi-structured documents into structured, visual dashboards using AI.
 - Flask REST APIs for upload, processing, and data retrieval
 - AI-generated summaries with interactive dashboard output
 
-`Python` `Flask` `REST APIs` `AI/NLP` `Data Visualization`
+`React` `Flask` `REST APIs` `AI/NLP` `Data Visualization`
 
 ---
 
