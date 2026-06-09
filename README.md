@@ -156,7 +156,7 @@ Contributed to a professional design engagement focused on golf course managemen
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pramod--v00-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pramod-v00)
 
-[![Email](https://img.shields.io/badge/Email-pramodv@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pramodv@email.com)
+[![Email](https://img.shields.io/badge/Email-pramodv9988@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pramodv9988@email.com)
 
 </div>
 
