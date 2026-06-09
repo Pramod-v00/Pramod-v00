@@ -41,7 +41,7 @@ Location-aware platform connecting local job seekers with employers in their com
 - RESTful backend with Flask; relational data storage via SQL
 - Clean, community-focused UI built with HTML & CSS
 
-`Python` `Flask` `SQL` `HTML` `CSS` `REST APIs`
+`React` `Node` `MongoDB` `Express` `CSS` `REST APIs`
 
 ---
 
