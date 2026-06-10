@@ -53,7 +53,7 @@ Location-aware platform connecting local job seekers with employers in their com
 
 ---
 
-### [AI Document to Dashboard System](https://github.com/likhitha200605/Document-Dashboard-Project)
+### [AI Document to Dashboard System (Team Project)](https://github.com/likhitha200605/Document-Dashboard-Project)
 
 Converts semi-structured documents into structured, visual dashboards using AI.
 
